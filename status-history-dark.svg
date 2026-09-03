@@ -36,7 +36,7 @@
   <text x="46" y="29" fill="#F0F6FC"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700">TensorPlay status</text>
   <text x="46" y="49" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
-    font-size="10.5">Last 90 days · Updated Sep 02 · 23:16 UTC</text>
+    font-size="10.5">Last 90 days · Updated Sep 03 · 01:17 UTC</text>
 
   
   <g>
@@ -60,196 +60,196 @@
   <text x="776.0" y="115.5" text-anchor="end"
     fill="#4ADE80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="10.5"
     font-weight="600">99.956% uptime</text>
-  <rect x="24.00" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 05 · not_monitored</title></rect>
-<rect x="32.39" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 06 · not_monitored</title></rect>
-<rect x="40.78" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 07 · not_monitored</title></rect>
-<rect x="49.16" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 08 · not_monitored</title></rect>
-<rect x="57.55" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 09 · not_monitored</title></rect>
-<rect x="65.94" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 10 · not_monitored</title></rect>
-<rect x="74.33" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 11 · not_monitored</title></rect>
-<rect x="82.72" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 12 · not_monitored</title></rect>
-<rect x="91.10" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 13 · not_monitored</title></rect>
-<rect x="99.49" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 14 · not_monitored</title></rect>
-<rect x="107.88" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 15 · not_monitored</title></rect>
-<rect x="116.27" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 16 · not_monitored</title></rect>
-<rect x="124.66" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 17 · not_monitored</title></rect>
-<rect x="133.04" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 18 · not_monitored</title></rect>
-<rect x="141.43" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 19 · not_monitored</title></rect>
-<rect x="149.82" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 20 · not_monitored</title></rect>
-<rect x="158.21" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 21 · not_monitored</title></rect>
-<rect x="166.60" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 22 · not_monitored</title></rect>
-<rect x="174.98" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 23 · not_monitored</title></rect>
-<rect x="183.37" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 24 · not_monitored</title></rect>
-<rect x="191.76" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 25 · not_monitored</title></rect>
-<rect x="200.15" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 26 · not_monitored</title></rect>
-<rect x="208.54" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 27 · not_monitored</title></rect>
-<rect x="216.92" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 28 · not_monitored</title></rect>
-<rect x="225.31" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 29 · not_monitored</title></rect>
-<rect x="233.70" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 30 · not_monitored</title></rect>
-<rect x="242.09" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 01 · not_monitored</title></rect>
-<rect x="250.48" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 02 · not_monitored</title></rect>
-<rect x="258.86" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 03 · not_monitored</title></rect>
-<rect x="267.25" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 04 · not_monitored</title></rect>
-<rect x="275.64" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 05 · not_monitored</title></rect>
-<rect x="284.03" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 06 · not_monitored</title></rect>
-<rect x="292.42" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 07 · not_monitored</title></rect>
-<rect x="300.80" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 08 · not_monitored</title></rect>
-<rect x="309.19" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 09 · not_monitored</title></rect>
-<rect x="317.58" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 10 · not_monitored</title></rect>
-<rect x="325.97" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 11 · not_monitored</title></rect>
-<rect x="334.36" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 12 · not_monitored</title></rect>
-<rect x="342.74" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 13 · not_monitored</title></rect>
-<rect x="351.13" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 14 · not_monitored</title></rect>
-<rect x="359.52" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 15 · not_monitored</title></rect>
-<rect x="367.91" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 16 · not_monitored</title></rect>
-<rect x="376.30" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 17 · not_monitored</title></rect>
-<rect x="384.68" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 18 · not_monitored</title></rect>
-<rect x="393.07" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 19 · not_monitored</title></rect>
-<rect x="401.46" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 20 · not_monitored</title></rect>
-<rect x="409.85" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 21 · not_monitored</title></rect>
-<rect x="418.24" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 22 · not_monitored</title></rect>
-<rect x="426.62" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 23 · not_monitored</title></rect>
-<rect x="435.01" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 24 · not_monitored</title></rect>
-<rect x="443.40" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 25 · not_monitored</title></rect>
-<rect x="451.79" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 26 · not_monitored</title></rect>
-<rect x="460.18" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 27 · not_monitored</title></rect>
-<rect x="468.56" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 28 · not_monitored</title></rect>
-<rect x="476.95" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 29 · not_monitored</title></rect>
-<rect x="485.34" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Jul 30 · Operational</title></rect>
-<rect x="493.73" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Jul 31 · Operational</title></rect>
-<rect x="502.12" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 01 · Operational</title></rect>
-<rect x="510.50" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 02 · Operational</title></rect>
-<rect x="518.89" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 03 · Operational</title></rect>
-<rect x="527.28" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 04 · Operational</title></rect>
-<rect x="535.67" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 05 · Operational</title></rect>
-<g><title>Aug 06 · Downtime · down 21m</title><rect x="544.06" y="123.00" width="5.47" height="27.58" fill="#22C55E"/><rect x="544.06" y="150.58" width="5.47" height="0.42" fill="#EF4444"/></g>
-<rect x="552.44" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 07 · Operational</title></rect>
-<rect x="560.83" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 08 · Operational</title></rect>
-<rect x="569.22" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 09 · Operational</title></rect>
-<rect x="577.61" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 10 · Operational</title></rect>
-<rect x="586.00" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 11 · Operational</title></rect>
-<rect x="594.38" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 12 · Operational</title></rect>
-<rect x="602.77" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 13 · Operational</title></rect>
-<rect x="611.16" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 14 · Operational</title></rect>
-<rect x="619.55" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 15 · Operational</title></rect>
-<rect x="627.94" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 16 · Operational</title></rect>
-<rect x="636.32" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 17 · Operational</title></rect>
-<rect x="644.71" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 18 · Operational</title></rect>
-<rect x="653.10" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 19 · Operational</title></rect>
-<rect x="661.49" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 20 · Operational</title></rect>
-<rect x="669.88" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 21 · Operational</title></rect>
-<rect x="678.26" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 22 · Operational</title></rect>
-<rect x="686.65" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 23 · Operational</title></rect>
-<rect x="695.04" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 24 · Operational</title></rect>
-<rect x="703.43" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 25 · Operational</title></rect>
-<rect x="711.82" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 26 · Operational</title></rect>
-<rect x="720.20" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 27 · Operational</title></rect>
-<rect x="728.59" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 28 · Operational</title></rect>
-<rect x="736.98" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 29 · Operational</title></rect>
-<rect x="745.37" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 30 · Operational</title></rect>
-<rect x="753.76" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 31 · Operational</title></rect>
-<rect x="762.14" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Sep 01 · Operational</title></rect>
-<rect x="770.53" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Sep 02 · Operational</title></rect>
+  <rect x="24.00" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 06 · not_monitored</title></rect>
+<rect x="32.39" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 07 · not_monitored</title></rect>
+<rect x="40.78" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 08 · not_monitored</title></rect>
+<rect x="49.16" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 09 · not_monitored</title></rect>
+<rect x="57.55" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 10 · not_monitored</title></rect>
+<rect x="65.94" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 11 · not_monitored</title></rect>
+<rect x="74.33" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 12 · not_monitored</title></rect>
+<rect x="82.72" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 13 · not_monitored</title></rect>
+<rect x="91.10" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 14 · not_monitored</title></rect>
+<rect x="99.49" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 15 · not_monitored</title></rect>
+<rect x="107.88" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 16 · not_monitored</title></rect>
+<rect x="116.27" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 17 · not_monitored</title></rect>
+<rect x="124.66" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 18 · not_monitored</title></rect>
+<rect x="133.04" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 19 · not_monitored</title></rect>
+<rect x="141.43" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 20 · not_monitored</title></rect>
+<rect x="149.82" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 21 · not_monitored</title></rect>
+<rect x="158.21" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 22 · not_monitored</title></rect>
+<rect x="166.60" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 23 · not_monitored</title></rect>
+<rect x="174.98" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 24 · not_monitored</title></rect>
+<rect x="183.37" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 25 · not_monitored</title></rect>
+<rect x="191.76" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 26 · not_monitored</title></rect>
+<rect x="200.15" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 27 · not_monitored</title></rect>
+<rect x="208.54" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 28 · not_monitored</title></rect>
+<rect x="216.92" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 29 · not_monitored</title></rect>
+<rect x="225.31" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 30 · not_monitored</title></rect>
+<rect x="233.70" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 01 · not_monitored</title></rect>
+<rect x="242.09" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 02 · not_monitored</title></rect>
+<rect x="250.48" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 03 · not_monitored</title></rect>
+<rect x="258.86" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 04 · not_monitored</title></rect>
+<rect x="267.25" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 05 · not_monitored</title></rect>
+<rect x="275.64" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 06 · not_monitored</title></rect>
+<rect x="284.03" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 07 · not_monitored</title></rect>
+<rect x="292.42" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 08 · not_monitored</title></rect>
+<rect x="300.80" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 09 · not_monitored</title></rect>
+<rect x="309.19" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 10 · not_monitored</title></rect>
+<rect x="317.58" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 11 · not_monitored</title></rect>
+<rect x="325.97" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 12 · not_monitored</title></rect>
+<rect x="334.36" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 13 · not_monitored</title></rect>
+<rect x="342.74" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 14 · not_monitored</title></rect>
+<rect x="351.13" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 15 · not_monitored</title></rect>
+<rect x="359.52" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 16 · not_monitored</title></rect>
+<rect x="367.91" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 17 · not_monitored</title></rect>
+<rect x="376.30" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 18 · not_monitored</title></rect>
+<rect x="384.68" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 19 · not_monitored</title></rect>
+<rect x="393.07" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 20 · not_monitored</title></rect>
+<rect x="401.46" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 21 · not_monitored</title></rect>
+<rect x="409.85" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 22 · not_monitored</title></rect>
+<rect x="418.24" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 23 · not_monitored</title></rect>
+<rect x="426.62" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 24 · not_monitored</title></rect>
+<rect x="435.01" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 25 · not_monitored</title></rect>
+<rect x="443.40" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 26 · not_monitored</title></rect>
+<rect x="451.79" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 27 · not_monitored</title></rect>
+<rect x="460.18" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 28 · not_monitored</title></rect>
+<rect x="468.56" y="123" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 29 · not_monitored</title></rect>
+<rect x="476.95" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Jul 30 · Operational</title></rect>
+<rect x="485.34" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Jul 31 · Operational</title></rect>
+<rect x="493.73" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 01 · Operational</title></rect>
+<rect x="502.12" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 02 · Operational</title></rect>
+<rect x="510.50" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 03 · Operational</title></rect>
+<rect x="518.89" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 04 · Operational</title></rect>
+<rect x="527.28" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 05 · Operational</title></rect>
+<g><title>Aug 06 · Downtime · down 21m</title><rect x="535.67" y="123.00" width="5.47" height="27.58" fill="#22C55E"/><rect x="535.67" y="150.58" width="5.47" height="0.42" fill="#EF4444"/></g>
+<rect x="544.06" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 07 · Operational</title></rect>
+<rect x="552.44" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 08 · Operational</title></rect>
+<rect x="560.83" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 09 · Operational</title></rect>
+<rect x="569.22" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 10 · Operational</title></rect>
+<rect x="577.61" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 11 · Operational</title></rect>
+<rect x="586.00" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 12 · Operational</title></rect>
+<rect x="594.38" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 13 · Operational</title></rect>
+<rect x="602.77" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 14 · Operational</title></rect>
+<rect x="611.16" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 15 · Operational</title></rect>
+<rect x="619.55" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 16 · Operational</title></rect>
+<rect x="627.94" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 17 · Operational</title></rect>
+<rect x="636.32" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 18 · Operational</title></rect>
+<rect x="644.71" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 19 · Operational</title></rect>
+<rect x="653.10" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 20 · Operational</title></rect>
+<rect x="661.49" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 21 · Operational</title></rect>
+<rect x="669.88" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 22 · Operational</title></rect>
+<rect x="678.26" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 23 · Operational</title></rect>
+<rect x="686.65" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 24 · Operational</title></rect>
+<rect x="695.04" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 25 · Operational</title></rect>
+<rect x="703.43" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 26 · Operational</title></rect>
+<rect x="711.82" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 27 · Operational</title></rect>
+<rect x="720.20" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 28 · Operational</title></rect>
+<rect x="728.59" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 29 · Operational</title></rect>
+<rect x="736.98" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 30 · Operational</title></rect>
+<rect x="745.37" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 31 · Operational</title></rect>
+<rect x="753.76" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Sep 01 · Operational</title></rect>
+<rect x="762.14" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Sep 02 · Operational</title></rect>
+<rect x="770.53" y="123" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Sep 03 · Operational</title></rect>
   <text x="24.0" y="165" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
     font-size="10.5">90 days ago</text>
   <text x="776.0" y="165" text-anchor="end"
     fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="10.5">Today</text>
   <g transform="translate(29.5 193.0)"><circle cx="0" cy="0" r="5.5" fill="#EF4444"/><path d="M-2.10 -2.10 L2.10 2.10 M2.10 -2.10 L-2.10 2.10" fill="none" stroke="#fff" stroke-width="1.70" stroke-linecap="round"/></g>
   <text x="41.0" y="197.5" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
-    font-size="12.5" font-weight="600">Git Hosting</text>
+    font-size="12.5" font-weight="600">Repository API</text>
   <text x="776.0" y="197.5" text-anchor="end"
     fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="10.5"
-    font-weight="600">96.808% uptime</text>
-  <rect x="24.00" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 05 · not_monitored</title></rect>
-<rect x="32.39" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 06 · not_monitored</title></rect>
-<rect x="40.78" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 07 · not_monitored</title></rect>
-<rect x="49.16" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 08 · not_monitored</title></rect>
-<rect x="57.55" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 09 · not_monitored</title></rect>
-<rect x="65.94" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 10 · not_monitored</title></rect>
-<rect x="74.33" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 11 · not_monitored</title></rect>
-<rect x="82.72" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 12 · not_monitored</title></rect>
-<rect x="91.10" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 13 · not_monitored</title></rect>
-<rect x="99.49" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 14 · not_monitored</title></rect>
-<rect x="107.88" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 15 · not_monitored</title></rect>
-<rect x="116.27" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 16 · not_monitored</title></rect>
-<rect x="124.66" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 17 · not_monitored</title></rect>
-<rect x="133.04" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 18 · not_monitored</title></rect>
-<rect x="141.43" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 19 · not_monitored</title></rect>
-<rect x="149.82" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 20 · not_monitored</title></rect>
-<rect x="158.21" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 21 · not_monitored</title></rect>
-<rect x="166.60" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 22 · not_monitored</title></rect>
-<rect x="174.98" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 23 · not_monitored</title></rect>
-<rect x="183.37" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 24 · not_monitored</title></rect>
-<rect x="191.76" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 25 · not_monitored</title></rect>
-<rect x="200.15" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 26 · not_monitored</title></rect>
-<rect x="208.54" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 27 · not_monitored</title></rect>
-<rect x="216.92" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 28 · not_monitored</title></rect>
-<rect x="225.31" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 29 · not_monitored</title></rect>
-<rect x="233.70" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 30 · not_monitored</title></rect>
-<rect x="242.09" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 01 · not_monitored</title></rect>
-<rect x="250.48" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 02 · not_monitored</title></rect>
-<rect x="258.86" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 03 · not_monitored</title></rect>
-<rect x="267.25" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 04 · not_monitored</title></rect>
-<rect x="275.64" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 05 · not_monitored</title></rect>
-<rect x="284.03" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 06 · not_monitored</title></rect>
-<rect x="292.42" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 07 · not_monitored</title></rect>
-<rect x="300.80" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 08 · not_monitored</title></rect>
-<rect x="309.19" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 09 · not_monitored</title></rect>
-<rect x="317.58" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 10 · not_monitored</title></rect>
-<rect x="325.97" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 11 · not_monitored</title></rect>
-<rect x="334.36" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 12 · not_monitored</title></rect>
-<rect x="342.74" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 13 · not_monitored</title></rect>
-<rect x="351.13" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 14 · not_monitored</title></rect>
-<rect x="359.52" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 15 · not_monitored</title></rect>
-<rect x="367.91" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 16 · not_monitored</title></rect>
-<rect x="376.30" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 17 · not_monitored</title></rect>
-<rect x="384.68" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 18 · not_monitored</title></rect>
-<rect x="393.07" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 19 · not_monitored</title></rect>
-<rect x="401.46" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 20 · not_monitored</title></rect>
-<rect x="409.85" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 21 · not_monitored</title></rect>
-<rect x="418.24" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 22 · not_monitored</title></rect>
-<rect x="426.62" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 23 · not_monitored</title></rect>
-<rect x="435.01" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 24 · not_monitored</title></rect>
-<rect x="443.40" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 25 · not_monitored</title></rect>
-<rect x="451.79" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 26 · not_monitored</title></rect>
-<rect x="460.18" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 27 · not_monitored</title></rect>
-<rect x="468.56" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 28 · not_monitored</title></rect>
-<rect x="476.95" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 29 · not_monitored</title></rect>
-<rect x="485.34" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Jul 30 · Operational</title></rect>
-<rect x="493.73" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Jul 31 · Operational</title></rect>
-<rect x="502.12" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 01 · Operational</title></rect>
-<rect x="510.50" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 02 · Operational</title></rect>
-<rect x="518.89" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 03 · Operational</title></rect>
-<rect x="527.28" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 04 · Operational</title></rect>
-<rect x="535.67" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 05 · Operational</title></rect>
-<rect x="544.06" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 06 · Operational</title></rect>
-<rect x="552.44" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 07 · Operational</title></rect>
-<rect x="560.83" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 08 · Operational</title></rect>
-<rect x="569.22" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 09 · Operational</title></rect>
-<rect x="577.61" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 10 · Operational</title></rect>
-<rect x="586.00" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 11 · Operational</title></rect>
-<rect x="594.38" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 12 · Operational</title></rect>
-<rect x="602.77" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 13 · Operational</title></rect>
-<rect x="611.16" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 14 · Operational</title></rect>
-<rect x="619.55" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 15 · Operational</title></rect>
-<rect x="627.94" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 16 · Operational</title></rect>
-<rect x="636.32" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 17 · Operational</title></rect>
-<rect x="644.71" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 18 · Operational</title></rect>
-<rect x="653.10" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 19 · Operational</title></rect>
-<rect x="661.49" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 20 · Operational</title></rect>
-<rect x="669.88" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 21 · Operational</title></rect>
-<rect x="678.26" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 22 · Operational</title></rect>
-<rect x="686.65" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 23 · Operational</title></rect>
-<rect x="695.04" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 24 · Operational</title></rect>
-<rect x="703.43" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 25 · Operational</title></rect>
-<rect x="711.82" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 26 · Operational</title></rect>
-<rect x="720.20" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 27 · Operational</title></rect>
-<rect x="728.59" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 28 · Operational</title></rect>
-<rect x="736.98" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 29 · Operational</title></rect>
-<rect x="745.37" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 30 · Operational</title></rect>
-<rect x="753.76" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 31 · Operational</title></rect>
-<g><title>Sep 01 · Downtime · down 6h 3m</title><rect x="762.14" y="205.00" width="5.47" height="20.94" fill="#22C55E"/><rect x="762.14" y="225.94" width="5.47" height="7.06" fill="#EF4444"/></g>
-<g><title>Sep 02 · Downtime · down 20h 18m</title><rect x="770.53" y="205.00" width="5.47" height="4.30" fill="#22C55E"/><rect x="770.53" y="209.30" width="5.47" height="23.70" fill="#EF4444"/></g>
+    font-weight="600">96.938% uptime</text>
+  <rect x="24.00" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 06 · not_monitored</title></rect>
+<rect x="32.39" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 07 · not_monitored</title></rect>
+<rect x="40.78" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 08 · not_monitored</title></rect>
+<rect x="49.16" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 09 · not_monitored</title></rect>
+<rect x="57.55" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 10 · not_monitored</title></rect>
+<rect x="65.94" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 11 · not_monitored</title></rect>
+<rect x="74.33" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 12 · not_monitored</title></rect>
+<rect x="82.72" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 13 · not_monitored</title></rect>
+<rect x="91.10" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 14 · not_monitored</title></rect>
+<rect x="99.49" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 15 · not_monitored</title></rect>
+<rect x="107.88" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 16 · not_monitored</title></rect>
+<rect x="116.27" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 17 · not_monitored</title></rect>
+<rect x="124.66" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 18 · not_monitored</title></rect>
+<rect x="133.04" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 19 · not_monitored</title></rect>
+<rect x="141.43" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 20 · not_monitored</title></rect>
+<rect x="149.82" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 21 · not_monitored</title></rect>
+<rect x="158.21" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 22 · not_monitored</title></rect>
+<rect x="166.60" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 23 · not_monitored</title></rect>
+<rect x="174.98" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 24 · not_monitored</title></rect>
+<rect x="183.37" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 25 · not_monitored</title></rect>
+<rect x="191.76" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 26 · not_monitored</title></rect>
+<rect x="200.15" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 27 · not_monitored</title></rect>
+<rect x="208.54" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 28 · not_monitored</title></rect>
+<rect x="216.92" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 29 · not_monitored</title></rect>
+<rect x="225.31" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 30 · not_monitored</title></rect>
+<rect x="233.70" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 01 · not_monitored</title></rect>
+<rect x="242.09" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 02 · not_monitored</title></rect>
+<rect x="250.48" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 03 · not_monitored</title></rect>
+<rect x="258.86" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 04 · not_monitored</title></rect>
+<rect x="267.25" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 05 · not_monitored</title></rect>
+<rect x="275.64" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 06 · not_monitored</title></rect>
+<rect x="284.03" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 07 · not_monitored</title></rect>
+<rect x="292.42" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 08 · not_monitored</title></rect>
+<rect x="300.80" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 09 · not_monitored</title></rect>
+<rect x="309.19" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 10 · not_monitored</title></rect>
+<rect x="317.58" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 11 · not_monitored</title></rect>
+<rect x="325.97" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 12 · not_monitored</title></rect>
+<rect x="334.36" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 13 · not_monitored</title></rect>
+<rect x="342.74" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 14 · not_monitored</title></rect>
+<rect x="351.13" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 15 · not_monitored</title></rect>
+<rect x="359.52" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 16 · not_monitored</title></rect>
+<rect x="367.91" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 17 · not_monitored</title></rect>
+<rect x="376.30" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 18 · not_monitored</title></rect>
+<rect x="384.68" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 19 · not_monitored</title></rect>
+<rect x="393.07" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 20 · not_monitored</title></rect>
+<rect x="401.46" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 21 · not_monitored</title></rect>
+<rect x="409.85" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 22 · not_monitored</title></rect>
+<rect x="418.24" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 23 · not_monitored</title></rect>
+<rect x="426.62" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 24 · not_monitored</title></rect>
+<rect x="435.01" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 25 · not_monitored</title></rect>
+<rect x="443.40" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 26 · not_monitored</title></rect>
+<rect x="451.79" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 27 · not_monitored</title></rect>
+<rect x="460.18" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 28 · not_monitored</title></rect>
+<rect x="468.56" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jul 29 · not_monitored</title></rect>
+<rect x="476.95" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Jul 30 · Operational</title></rect>
+<rect x="485.34" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Jul 31 · Operational</title></rect>
+<rect x="493.73" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 01 · Operational</title></rect>
+<rect x="502.12" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 02 · Operational</title></rect>
+<rect x="510.50" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 03 · Operational</title></rect>
+<rect x="518.89" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 04 · Operational</title></rect>
+<rect x="527.28" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 05 · Operational</title></rect>
+<rect x="535.67" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 06 · Operational</title></rect>
+<rect x="544.06" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 07 · Operational</title></rect>
+<rect x="552.44" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 08 · Operational</title></rect>
+<rect x="560.83" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 09 · Operational</title></rect>
+<rect x="569.22" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 10 · Operational</title></rect>
+<rect x="577.61" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 11 · Operational</title></rect>
+<rect x="586.00" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 12 · Operational</title></rect>
+<rect x="594.38" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 13 · Operational</title></rect>
+<rect x="602.77" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 14 · Operational</title></rect>
+<rect x="611.16" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 15 · Operational</title></rect>
+<rect x="619.55" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 16 · Operational</title></rect>
+<rect x="627.94" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 17 · Operational</title></rect>
+<rect x="636.32" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 18 · Operational</title></rect>
+<rect x="644.71" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 19 · Operational</title></rect>
+<rect x="653.10" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 20 · Operational</title></rect>
+<rect x="661.49" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 21 · Operational</title></rect>
+<rect x="669.88" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 22 · Operational</title></rect>
+<rect x="678.26" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 23 · Operational</title></rect>
+<rect x="686.65" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 24 · Operational</title></rect>
+<rect x="695.04" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 25 · Operational</title></rect>
+<rect x="703.43" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 26 · Operational</title></rect>
+<rect x="711.82" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 27 · Operational</title></rect>
+<rect x="720.20" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 28 · Operational</title></rect>
+<rect x="728.59" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 29 · Operational</title></rect>
+<rect x="736.98" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 30 · Operational</title></rect>
+<rect x="745.37" y="205" width="5.47" height="28" rx="2.73" fill="#22C55E"><title>Aug 31 · Operational</title></rect>
+<g><title>Sep 01 · Downtime · down 4h 28m</title><rect x="753.76" y="205.00" width="5.47" height="22.78" fill="#22C55E"/><rect x="753.76" y="227.78" width="5.47" height="5.22" fill="#EF4444"/></g>
+<g><title>Sep 02 · Downtime · down 18h 40m</title><rect x="762.14" y="205.00" width="5.47" height="6.21" fill="#22C55E"/><rect x="762.14" y="211.21" width="5.47" height="21.79" fill="#EF4444"/></g>
+<g><title>Sep 03 · Downtime · down 2h 9m</title><rect x="770.53" y="205.00" width="5.47" height="25.48" fill="#22C55E"/><rect x="770.53" y="230.48" width="5.47" height="2.52" fill="#EF4444"/></g>
   <text x="24.0" y="247" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
     font-size="10.5">90 days ago</text>
   <text x="776.0" y="247" text-anchor="end"
