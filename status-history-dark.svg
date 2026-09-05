@@ -36,7 +36,7 @@
   <text x="46" y="29" fill="#F0F6FC"
     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700">TensorPlay status</text>
   <text x="46" y="49" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
-    font-size="10.5">Last 90 days · Updated Sep 05 · 11:17 UTC</text>
+    font-size="10.5">Last 90 days · Updated Sep 05 · 13:17 UTC</text>
 
   
   <g>
@@ -159,7 +159,7 @@
     font-size="12.5" font-weight="600">Git Hosting</text>
   <text x="776.0" y="197.5" text-anchor="end"
     fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="10.5"
-    font-weight="600">91.082% uptime</text>
+    font-weight="600">90.814% uptime</text>
   <rect x="24.00" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 08 · not_monitored</title></rect>
 <rect x="32.39" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 09 · not_monitored</title></rect>
 <rect x="40.78" y="205" width="5.47" height="28" rx="2.73" fill="#262D36"><title>Jun 10 · not_monitored</title></rect>
@@ -249,7 +249,7 @@
 <g><title>Sep 02 · Downtime · down 20h 36m</title><rect x="745.37" y="205.00" width="5.47" height="3.96" fill="#22C55E"/><rect x="745.37" y="208.96" width="5.47" height="24.04" fill="#EF4444"/></g>
 <g><title>Sep 03 · Downtime · down 20h 48m</title><rect x="753.76" y="205.00" width="5.47" height="3.72" fill="#22C55E"/><rect x="753.76" y="208.72" width="5.47" height="24.28" fill="#EF4444"/></g>
 <g><title>Sep 04 · Downtime · down 21h 33m</title><rect x="762.14" y="205.00" width="5.47" height="2.85" fill="#22C55E"/><rect x="762.14" y="207.85" width="5.47" height="25.15" fill="#EF4444"/></g>
-<g><title>Sep 05 · Downtime · down 9h 55m</title><rect x="770.53" y="205.00" width="5.47" height="16.42" fill="#22C55E"/><rect x="770.53" y="221.42" width="5.47" height="11.58" fill="#EF4444"/></g>
+<g><title>Sep 05 · Downtime · down 12h 32m</title><rect x="770.53" y="205.00" width="5.47" height="13.37" fill="#22C55E"/><rect x="770.53" y="218.37" width="5.47" height="14.63" fill="#EF4444"/></g>
   <text x="24.0" y="247" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
     font-size="10.5">90 days ago</text>
   <text x="776.0" y="247" text-anchor="end"
